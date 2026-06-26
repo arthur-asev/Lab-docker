@@ -1,0 +1,5 @@
+/docker/mysql/backups/*.sql
+/docker/mysql/backups/*.gz
+/src/.env
+/src/vendor
+/src/node_modules
